@@ -22,7 +22,7 @@ This dashboard provides insights into **coffee sales trends**, analyzing key per
 
 ## ✨ Key Functionalities
 
-**Tooltips** – Hover over data points to view detailed sales, orders, and quantity metrics.
+**Tooltips** – Hover over specific days in the calendar or hours in the heatmap to see detailed sales, orders, and quantity metrics.
 
 
 ## 🔧 Tools Used:
