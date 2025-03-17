@@ -20,11 +20,10 @@ This dashboard provides insights into **coffee sales trends**, analyzing key per
 **Daily & Hourly Sales Trends** – A heatmap visualization of peak sales hours.
 
 
-## 🎯 Features:
+## ✨ Key Functionalities
 
 **Tooltips** – Hover over data points to view detailed sales, orders, and quantity metrics.
 
-**Actionable Insights** – Key findings that help improve business performance.
 
 ## 🔧 Tools Used:
 
