@@ -1,6 +1,6 @@
 # ☕ Coffee Sales Dashboard  
 
-This dashboard provides insights into **coffee sales trends**, analyzing key performance indicators (KPIs) such as **total sales, total orders, and quantity sold** over different time periods.  
+This dashboard provides insights into **coffee sales trends**, analyzing key performance indicators (KPIs) such as **total sales, total orders, and quantity sold** over different time periods. All data cleaning and calculations were performed in **SQL**, and the results were **cross-checked** in Power BI before visualization. Additionally, **key actionable insights** have been identified to help improve business performance. 
 
 📊 **View Interactive Dashboard Here:**  
 [🔗 Click to Open Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZjZmNThlYTgtY2MwYi00YTEyLTk5ZGYtOTJkMzYyZDA4MDA2IiwidCI6IjcxM2MyZWExLWVmOWItNDVkMC1iODk4LTM2ZTc5MDRlN2M3MyJ9)  
@@ -27,9 +27,20 @@ This dashboard provides insights into **coffee sales trends**, analyzing key per
 
 ## 🔧 Tools Used:
 
-**Power BI** – Interactive dashboards and visualizations.
+**SQL** – Data cleaning, transformation, and analysis.
 
-**SQL** – Data extraction and transformation.
+**Power BI** – Dashboard creation and visualization.
 
 
-📂 **To view the complete dashboard and insights, check the PDF file.**  
+## 📂 Files Included:
+
+**📄 Coffee Sales Dashboard.pdf** – Contains the full dashboard and insights.
+
+**📝 Coffee Sales Analysis.sql** – MySQL Workbench script used for data cleaning and analysis.
+
+**🖼️ Background_Image.png** – Custom background used in the Power BI dashboard.
+
+**☕ Coffee_Cup.png** – Coffee cup image used in the report design.
+
+
+## 📌 To explore the complete dashboard and SQL script, check the files inside this folder. 
