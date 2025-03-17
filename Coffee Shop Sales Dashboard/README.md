@@ -34,6 +34,8 @@ This dashboard provides insights into **coffee sales trends**, analyzing key per
 
 ## 📂 Files Included:
 
+**📊 Coffee_Sales_Data.xlsx** – Raw dataset used for the project.
+
 **📄 Coffee Sales Dashboard.pdf** – Contains the full dashboard and insights.
 
 **📝 Coffee Sales Analysis.sql** – MySQL Workbench script used for data cleaning and analysis.
