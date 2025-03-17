@@ -43,4 +43,4 @@ This dashboard provides insights into **coffee sales trends**, analyzing key per
 **☕ Coffee_Cup.png** – Coffee cup image used in the report design.
 
 
-## 📌 To explore the complete dashboard and SQL script, check the files inside this folder. 
+### 📌 To explore the complete dashboard and SQL script, check the files inside this folder. 
