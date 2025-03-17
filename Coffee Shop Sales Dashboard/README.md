@@ -32,6 +32,5 @@ This dashboard provides insights into **coffee sales trends**, analyzing key per
 
 **SQL** – Data extraction and transformation.
 
-**Excel** – Data preprocessing and initial analysis.
 
-📂 **To view the complete dashboard and insights, check the PDF file inside this folder.**  
+📂 **To view the complete dashboard and insights, check the PDF file.**  
