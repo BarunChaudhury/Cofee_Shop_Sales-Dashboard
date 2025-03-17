@@ -6,6 +6,7 @@ This dashboard provides insights into **coffee sales trends**, analyzing key per
 [🔗 Click to Open Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZjZmNThlYTgtY2MwYi00YTEyLTk5ZGYtOTJkMzYyZDA4MDA2IiwidCI6IjcxM2MyZWExLWVmOWItNDVkMC1iODk4LTM2ZTc5MDRlN2M3MyJ9)  
 
 ##📊 Key Insights:
+
 **Total Sales Analysis** – Monthly trends and MoM (Month-over-Month) comparison.
 
 **Orders & Quantity Sold** – Tracking order volumes and quantities sold.
