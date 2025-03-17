@@ -23,12 +23,15 @@ This dashboard provides insights into **coffee sales trends**, analyzing key per
 ## 🎯 Features:
 
 **Tooltips** – Hover over data points to view detailed sales, orders, and quantity metrics.
+
 **Actionable Insights** – Key findings that help improve business performance.
 
 ## 🔧 Tools Used:
 
 **Power BI** – Interactive dashboards and visualizations.
+
 **SQL** – Data extraction and transformation.
+
 **Excel** – Data preprocessing and initial analysis.
 
 📂 **To view the complete dashboard and insights, check the PDF file inside this folder.**  
