@@ -38,6 +38,11 @@ This dashboard provides insights into **coffee sales trends**, analyzing key per
 **Power BI** – Dashboard creation and visualization.
 
 
+## 🖼️ Dashboard Image:
+
+![Blinkit Sales Dashboard](https://github.com/BarunChaudhury/Blinkit_Sales_Performance-Dashboard/blob/main/Dashboard%20image.png?raw=true)
+
+
 
 ## 📂 Files Included:
 
