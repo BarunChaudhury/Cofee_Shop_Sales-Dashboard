@@ -40,7 +40,7 @@ This dashboard provides insights into **coffee sales trends**, analyzing key per
 
 ## 🖼️ Dashboard Image:
 
-![Blinkit Sales Dashboard](https://github.com/BarunChaudhury/Blinkit_Sales_Performance-Dashboard/blob/main/Dashboard%20image.png?raw=true)
+![Coffee Shop Sales Dashboard]([https://github.com/BarunChaudhury/Blinkit_Sales_Performance-Dashboard/blob/main/Dashboard%20image.png?raw=true](https://github.com/BarunChaudhury/Cofee_Shop_Sales-Dashboard/blob/main/Coffee%20dashboard%20image.png?raw=true))
 
 
 
